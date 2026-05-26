@@ -82,14 +82,3 @@ Open the URL shown by Vite (typically `http://localhost:5173`). The frontend pro
 - Admin dashboard με στατιστικά, φίλτρα και αλλαγή κατάστασης
 - Εξαγωγή φιλτραρισμένων αναφορών σε CSV
 
-## Screenshots
-
-<!-- Προσθέστε screenshots εδώ -->
-
-| Χάρτης | Νέα Αναφορά |
-|--------|-------------|
-| _screenshot-map.png_ | _screenshot-new-report.png_ |
-
-| Οι Αναφορές Μου | Admin Dashboard |
-|-----------------|-----------------|
-| _screenshot-my-reports.png_ | _screenshot-admin.png_ |
